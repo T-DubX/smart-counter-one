@@ -1,0 +1,22 @@
+.container {
+    max-width: 750px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.counterWrapper {
+    width: 300px;
+    height: 100px;
+    border: 2px dashed black;
+    padding: 1rem;
+}
+
+.btnWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
